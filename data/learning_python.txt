@@ -1,0 +1,17 @@
+I like Python.
+Python is best for automation testing.
+I can automate my testing in Python.
+Python is the most popular among modern languages.
+I like to use Python for DB testing and DB analysis.
+I like my testing.
+I like Programming.
+I love creating new codes.
+I really like Python.I like Java.
+Java is best for automation testing.
+I can automate my testing in Java.
+Java is the most popular among modern languages.
+I like to use Java for DB testing and DB analysis.
+I like my testing.
+I like Programming.
+I love creating new codes.
+I really like Java.

@@ -46,7 +46,7 @@
 #     closing_file = aliasnameForTheFile.close() # need to use only when opening file "with open()' method
 #
 filepath1 = '../data/products.txt'
-filepath = 'c:/dev22/basics/data/products.txt'
+filepath = 'c:/dev22/basics_2022/data/products.txt'
 print("************************ READ File *************************")
 with open(filepath) as prod_list:
     contents = prod_list.read()

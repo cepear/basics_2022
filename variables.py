@@ -93,6 +93,8 @@ print("modulo: ",20 % num1)  ### what is remainder when you devide 20 to 2
 ###if n%2 returns 0 then n is even number (pseudocode)
 print("###str(expression), converts expression to the string")
 print("Addition: " + str(num1 + num2)) ## Concatination - merging. Only str can be concatinated to str. If its int, then we should convert it to str.
+num1 = 3
+num2= 8
 num3 = '456'# this is a strring data type, becuese covered with single quote
 num4 = 45.7566 # float data type.  when converting it gets whole part only.
 print(('addition with num3: ', num1+int(num3))) # we need to convert '456' to int.
